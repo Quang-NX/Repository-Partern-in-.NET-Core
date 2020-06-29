@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgiajcMIn8OC3PEuDczQCbcshdofuEl2mSD0Z1sRyk3wr8MfSwYs3iXB0LO6+Q7bC5ILN08Wz0dhKhJUPsEqyQ==",
+  "dgSpecHash": "rtayEwT/hzSN0nisYuZw3jULHlmx51O2qW+pAslFFMP69fuX8GPav5Wg3vQwSsoVeFwyWX6Bo0oLWj9toTx95g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\WebApi\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

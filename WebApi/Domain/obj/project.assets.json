@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\WebApi\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\WebApi\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\WebApi\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fpNvstwqrVjMlJD6hW0srrNv6U0v9mFh++ehJVNikUw02a9+XIanZaFD558MBQbU3VGCcmhUiGLszQeS+R1C3g==",
+  "dgSpecHash": "3lKfR3+/q8CT0GU3aNu6CgsssKTTiiMLz00FJ9k+Vu3eHQO1xV1NLmC+RKPvdv6j3WDueC+f1ONtMAzYsravtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\WebApi\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

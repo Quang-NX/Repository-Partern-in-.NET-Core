@@ -5041,11 +5041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5064,8 +5064,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\WebApi\\DataAccess.EFCore\\DataAccess.EFCore.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\WebApi\\DataAccess.EFCore\\DataAccess.EFCore.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\DataAccess.EFCore\\DataAccess.EFCore.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Repository-Partern-in-.NET-Core\\WebApi\\DataAccess.EFCore\\DataAccess.EFCore.csproj"
             }
           }
         }
